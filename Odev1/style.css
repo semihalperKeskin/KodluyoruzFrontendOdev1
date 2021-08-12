@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+}
+.navbar-div{
+    height: 70px;
+
+}
+.navbar-ul{
+    margin-top: 70px;
+    text-align: center;
+    
+    font-size: 1em;
+}
+.navbar-ul li{
+    padding: 1.5rem;
+    list-style-type: none;
+    
+    display: inline;
+}
+.navbar-ul li:hover{
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+.piyano{
+    margin: 3rem;
+    text-align: center;
+    
+}
+.gitar{
+    margin: 3rem;
+    text-align: center;
+}
+.keman{
+    margin: 3rem;
+    text-align: center;
+}
+.analist{
+    
+    list-style-type: none;
+    text-align: center;
+    
+    font-size: 1.25rem;
+}
